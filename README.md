@@ -1,4 +1,4 @@
-#Smart Contract Template with truffle
+# Smart Contract Template with truffle
 
 ## Features
 - [ ] ERC20 Token
