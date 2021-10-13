@@ -10,3 +10,4 @@
 - [ ] ERC721 NFT + Trading Contact + Mint Web App
 - [ ] ERC721 NFT + Bidding Contract
 - [ ] ERC721 NFT + Bidding + Mint Web App
+- [ ] ERC721 NFT + Trading Contact + Bidding + Mint Web App
